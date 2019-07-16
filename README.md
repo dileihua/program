@@ -1,3 +1,2 @@
 # program
-my first project.
-#homework
+# homework
